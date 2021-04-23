@@ -1,0 +1,14 @@
+.container {
+  width: 800px;
+}
+
+.list {
+  padding-left: 20px;
+}
+
+.title {
+  margin-top: 0px;
+  margin-bottom: 32px;
+  font-size: 26px;
+  color: whitesmoke;
+}

@@ -1,0 +1,34 @@
+.title {
+  margin-top: 40px;
+  margin-bottom: 80px;
+  text-align: center;
+  font-size: 35px;
+  text-transform: uppercase;
+  color: whitesmoke;
+}
+
+.title:after {
+  display: inline-block;
+  margin: 0 0 8px 20px;
+  height: 3px;
+  content: " ";
+  text-shadow: none;
+  background-color: whitesmoke;
+  width: 140px;
+}
+
+.title:before {
+  display: inline-block;
+  margin: 0 20px 8px 0px;
+  height: 3px;
+  content: " ";
+  text-shadow: none;
+  background-color: whitesmoke;
+  width: 140px;
+}
+
+.flexContainer {
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}

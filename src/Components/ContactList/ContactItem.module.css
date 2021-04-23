@@ -1,0 +1,23 @@
+.item {
+  margin-bottom: 20px;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: whitesmoke;
+}
+
+.delBtn {
+  width: 120px;
+  height: 30px;
+  margin-left: 40px;
+  font-size: 20px;
+  outline: none;
+  background-color: #b96868;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 0px;
+}
+
+.delBtn:hover,
+.delBtn:focus {
+  background-color: #be5252;
+}

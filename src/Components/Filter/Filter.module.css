@@ -1,0 +1,29 @@
+.container {
+  width: 400px;
+  height: 150px;
+  border: 2px solid rgba(245, 245, 245, 0.281);
+  border-radius: 6px;
+  text-align: center;
+}
+
+.label {
+  display: block;
+  padding-top: 20px;
+  font-size: 26px;
+  font-weight: 700;
+  color: whitesmoke;
+}
+
+.input {
+  display: block;
+  width: 280px;
+  height: 32px;
+  margin: 32px auto;
+  font-size: 20px;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 2px;
+  border: 0px;
+  outline: none;
+}
